@@ -10,12 +10,11 @@ using System.Windows.Forms;
 
 namespace projeto_c_sharp
 {
-    public partial class Form1 : Form
+    public partial class Diabetes : Form
     {
-        public Form1()
+        public Diabetes()
         {
             InitializeComponent();
         }
-
     }
 }
